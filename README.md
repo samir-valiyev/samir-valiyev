@@ -1,8 +1,8 @@
 ### Hello there 🖐️
 
-<img src='https://www.mygo.ge/uploads/blog/1584023795.jpg' width='100%"'>
+<img src='https://www.mygo.ge/uploads/blog/1584023795.jpg' width='70%"'>
 
-### About me 🐬
+### About me 
 
 - 🖐️ I'm Samir Valiyev
 - 🖥️ I’m currently work from Home
