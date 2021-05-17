@@ -1,4 +1,4 @@
-### Hello there 🖥️ 🖐️
+### Hello everyone 🖥️ 🖐️
 
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
@@ -8,7 +8,7 @@
 - 🖥️ I’m currently work from Home
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: [Twitter - @samirvaliyev89](https://twitter.com/samirvaliyev89)
-- ✍️ My Website: [http://www.azecoder.com/][(https://lambiengcode.blogspot.com](http://www.azecoder.com/))
+- ✍️ My Website: [http://www.azecoder.com/]
 
 
 ### Skills
