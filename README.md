@@ -1,12 +1,10 @@
 ### Hello there 🖐️
 
-<img src='https://www.mygo.ge/uploads/blog/1584023795.jpg' width='70%"'>
-
 ### About me 
 
 - 🖐️ I'm Samir Valiyev
 - 🖥️ I’m currently work from Home
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning TypeScript.js
 - 📫 How to reach me: [Twitter - @samirvaliyev89](https://twitter.com/samirvaliyev89)
 - ✍️ My Website: [http://www.azecoder.com/]
 
