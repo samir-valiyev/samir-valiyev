@@ -3,8 +3,10 @@
 ### About me 
 
 - 🖐️ I'm Samir Valiyev
-- 🖥️ I’m currently work from Home
+- 🖥️ I currently work from home remotely
 - 🌱 I’m currently learning TypeScript.js
+- 📫 How to reach me: [LinkedIn - @samirvaliyev](https://www.linkedin.com/in/samirvaliyev/)
+- 📫 How to reach me: [Facebook - @samir.valiyev.1989](https://www.facebook.com/samir.valiyev.1989/)
 - 📫 How to reach me: [Twitter - @samirvaliyev89](https://twitter.com/samirvaliyev89)
 - ✍️ My Website: [http://www.azecoder.com/]
 
