@@ -4,7 +4,7 @@
 
 - 🖐️ I'm Samir Valiyev
 - 🖥️ I currently work from home remotely
-- 🌱 I’m currently learning TypeScript.js
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: 
 - [LinkedIn - @samirvaliyev](https://www.linkedin.com/in/samirvaliyev/)
 - [Facebook - @samir.valiyev.1989](https://www.facebook.com/samir.valiyev.1989/)
