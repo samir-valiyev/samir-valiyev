@@ -8,7 +8,7 @@
 - [LinkedIn - @samirvaliyev](https://www.linkedin.com/in/samirvaliyev/)
 - [Facebook - @samir.valiyev.1989](https://www.facebook.com/samir.valiyev.1989/)
 - [Twitter - @samirvaliyev89](https://twitter.com/samirvaliyev89)
-- ✍️ My Website: [http://www.azecoder.com/]
+
 
 
 ### Skills
