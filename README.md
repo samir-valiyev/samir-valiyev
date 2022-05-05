@@ -3,7 +3,6 @@
 ### About me 
 
 - 🖐️ I'm Samir Valiyev
-- 🖥️ I work Middle Front-end Developer at :Dteam (www.dteam.dev)
 - 📫 How to reach me: 
 - [LinkedIn - @samirvaliyev](https://www.linkedin.com/in/samirvaliyev/)
 - [Facebook - @samir.valiyev.1989](https://www.facebook.com/samir.valiyev.1989/)
