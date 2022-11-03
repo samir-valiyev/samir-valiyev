@@ -1,4 +1,7 @@
 ### Hello there 🖐️
+<div>
+<img src="./assets/github-snake.gif" width="800" alt="Github snake">
+</div>
 
 ### About me 
 
