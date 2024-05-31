@@ -1,7 +1,7 @@
 ### About me 
 - 🖐️ I'm Samir Valiyev
 - 📫 How to reach me: 
-- [LinkedIn - @samirvaliyev](https://www.linkedin.com/in/samirvaliyev/)
+- [LinkedIn - @samirvaliyev](https://www.linkedin.com/in/samir-valiyev/)
 - [Telegram - @samirvaliyev](https://t.me/samirvaliyev)
 
 ### Skills
